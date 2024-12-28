@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JKaiser1988
 - 👀 I’m interested in Product Development and Management, Project Management, Scrum
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me juliusleslieniisowahquarshie@gmail.com
 
